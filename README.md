@@ -1,2 +1,3 @@
 # Facemash
-rate the attractiveness of people's photos
+
+《社交网络》场景还原
